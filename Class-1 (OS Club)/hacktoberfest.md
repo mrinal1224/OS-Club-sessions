@@ -108,4 +108,3 @@
    - **Hacktoberfest Registration**
      - Official Hacktoberfest Website
 
-This roadmap should give you a structured approach to understanding Hacktoberfest and how to get started with contributing to open source.
